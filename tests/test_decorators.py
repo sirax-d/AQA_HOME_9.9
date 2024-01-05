@@ -1,7 +1,7 @@
 import allure
 from allure_commons.types import Severity
 from selene import by, be
-from selene.support.shared import browser
+from selene import browser
 from selene.support.shared.jquery_style import s
 
 
